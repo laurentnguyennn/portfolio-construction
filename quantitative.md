@@ -1,4 +1,4 @@
-# CLAUDE.MD — Tech Sector Risk Management & ML Forecasting Pipeline
+# portfolio-construction.MD — Tech Sector Risk Management & ML Forecasting Pipeline
 
 > **Project Scope**: Multi-notebook quantitative analysis of 20 actively traded tech stocks across 10 technology sub-sectors, spanning 10 years of daily data (2016-03 → 2026-03). Combines classical econometrics, machine learning, deep learning, regime detection, NLP sentiment, and portfolio optimization into a production-grade risk management framework.
 
