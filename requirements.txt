@@ -1,0 +1,56 @@
+# Tech Sector Risk Management & ML Forecasting Pipeline
+# Pin exact versions for reproducibility
+
+# Core
+numpy>=1.24
+pandas>=2.0
+scipy>=1.11
+matplotlib>=3.7
+seaborn>=0.12
+plotly>=5.15
+
+# Data & Finance
+openbb>=4.0
+openbb-yfinance>=1.0
+fredapi>=0.5
+pandas-datareader>=0.10
+
+# Econometrics & Time Series
+arch>=6.0
+statsmodels>=0.14
+hmmlearn>=0.3
+copulas>=0.9
+
+# Machine Learning
+scikit-learn>=1.3
+xgboost>=2.0
+lightgbm>=4.0
+optuna>=3.3
+shap>=0.42
+imbalanced-learn>=0.11
+
+# Deep Learning
+torch>=2.1
+pytorch-forecasting>=1.0
+pytorch-lightning>=2.1
+
+# NLP
+transformers>=4.35
+
+# Portfolio Optimization
+pyportfolioopt>=1.5
+cvxpy>=1.4
+riskfolio-lib>=4.0
+
+# Reporting
+python-pptx>=0.6
+openpyxl>=3.1
+fpdf2>=2.7
+
+# Utilities
+tqdm>=4.66
+joblib>=1.3
+pyarrow>=14.0
+
+# Testing
+pytest>=7.4

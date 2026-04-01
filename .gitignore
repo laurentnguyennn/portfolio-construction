@@ -1,0 +1,33 @@
+# Secrets
+.env
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+.claude/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.pytest_cache/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Ruff cache
+.ruff_cache/
+
+# Model artifacts (large binaries)
+*.pkl
+*.pt
+*.pth
+models/dl/
+models/garch/
+
+# Logs
+logs/
